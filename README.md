@@ -4,7 +4,7 @@ Analyze CV vs JD and get a score
 ## Swagger
 http://localhost:8000/docs
 
-## Rename .env-example
+## Rename .env.example
 Rename .env.example to .env and input your Gemini key
 
 ## Create Python environment
