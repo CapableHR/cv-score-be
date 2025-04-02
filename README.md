@@ -13,7 +13,7 @@ python -m venv cv-score-be-env
 ```
 ## Activate environment
 ```sh
-source cv-score-be-env scripts/activate (windows)
+source cv-score-be-env/scripts/activate (windows)
 ```
 ```sh
 source cv-score-be-env/bin/activate (mac/linux)
